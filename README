@@ -8,7 +8,7 @@ This demo includes an in-memory datasource - to take advantage of persistence of
 tokens, replace this in-memory datasource with a persistent datasource.
 
 This is a tempororary project until I find time to backport this persistent rememberme functionality back into
-socialsignin-showcase and the maven archetype.
+https://github.com/socialsignin/socialsignin-showcase and the maven archetype.
 
 This webapp delegates login for the application to 3rd party providers using spring-social-security
 , removing the need for local username/passwords.   
